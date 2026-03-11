@@ -16,3 +16,5 @@ if answer == "left":
 elif answer == "right":
     answer = input("It seems like this door leads back home. You walk through it. Something feels off. It is the street you grew up in, only it is too quiet and empty. Type home to walk to your house, type help to scream for help.")
 else: print('Not a valid option. You feel a heat. You are dead' )
+
+# test
